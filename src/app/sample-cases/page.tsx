@@ -124,7 +124,7 @@ export default function SampleCasesPage() {
             </p>
           </div>
           <Link
-            href="/reserved-area"
+            href="/contacts"
             className="inline-block bg-[#c23c2a] px-6 py-3 text-sm font-medium uppercase tracking-wide text-white transition-colors hover:bg-black"
           >
             Order a kit

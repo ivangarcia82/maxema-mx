@@ -23,7 +23,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Do you ship internationally?",
-    a: "Yes. We ship worldwide from our facility in Volpiano (Italy). Shipping costs are quoted per order based on weight and destination.",
+    a: "Yes. We ship worldwide. Shipping costs are quoted per order based on weight and destination.",
   },
   {
     q: "Are your pens recyclable?",
@@ -35,7 +35,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "How do I become a distributor?",
-    a: "Send an introduction with your company profile and target markets to export@maxema.com. Approved distributors gain access to our reserved-area ordering platform.",
+    a: "Send an introduction with your company profile and target markets to maxema@importacionesusb.mx. Our team will review your application and get back to you with onboarding details.",
   },
 ];
 

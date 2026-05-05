@@ -15,7 +15,6 @@ const NAV_LEFT = [
 const NAV_RIGHT = [
   { label: "Company", href: "/about" },
   { label: "Contacts", href: "/contacts" },
-  { label: "Reserved Area", href: "/reserved-area" },
 ] as const;
 
 const SOCIAL_ICONS = [

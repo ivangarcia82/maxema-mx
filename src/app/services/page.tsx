@@ -32,11 +32,11 @@ const SERVICES = [
     cta: "Recycled pens",
   },
   {
-    title: "Reserved area",
+    title: "Distributor enquiries",
     body:
-      "Authorised distributors gain access to our online ordering platform: live stock, custom pricing, generation of branded PDF quotations.",
-    href: "/reserved-area",
-    cta: "Sign in",
+      "Interested in becoming an authorised distributor? Get in touch with our team — we'll share pricing, product availability and onboarding details.",
+    href: "/contacts",
+    cta: "Contact us",
   },
 ];
 

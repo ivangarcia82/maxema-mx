@@ -61,11 +61,10 @@ export default function CookiePrivacyPage() {
                 1. Data controller
               </h2>
               <p>
-                The data controller is Maxema S.r.l., with registered office at
-                Via Vittime delle Foibe 15, 10088 Volpiano (Torino), Italy. For
-                any privacy-related enquiry write to{" "}
-                <a className="underline hover:text-black" href="mailto:privacy@maxema.com">
-                  privacy@maxema.com
+                The data controller is Maxema S.r.l. For any privacy-related
+                enquiry write to{" "}
+                <a className="underline hover:text-black" href="mailto:maxema@importacionesusb.mx">
+                  maxema@importacionesusb.mx
                 </a>
                 .
               </p>
@@ -113,8 +112,8 @@ export default function CookiePrivacyPage() {
                 access, rectification, deletion, restriction of processing,
                 data portability and objection. To exercise these rights write
                 to{" "}
-                <a className="underline hover:text-black" href="mailto:privacy@maxema.com">
-                  privacy@maxema.com
+                <a className="underline hover:text-black" href="mailto:maxema@importacionesusb.mx">
+                  maxema@importacionesusb.mx
                 </a>
                 .
               </p>

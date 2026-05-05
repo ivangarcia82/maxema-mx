@@ -56,7 +56,7 @@ export default function MediaPage() {
             style={{ fontWeight: 300 }}
           >
             For interview requests, sample loans and editorial co-operation,
-            write to <a href="mailto:press@maxema.com" className="underline hover:text-black">press@maxema.com</a>.
+            write to <a href="mailto:maxema@importacionesusb.mx" className="underline hover:text-black">maxema@importacionesusb.mx</a>.
           </p>
         </div>
       </section>

@@ -82,7 +82,7 @@ export default async function ProductDetailPage(props: {
               {descClean || descRaw}
             </p>
             <Link
-              href="/reserved-area"
+              href="/contacts"
               className="mt-8 inline-block bg-[#c23c2a] px-6 py-3 text-sm font-medium uppercase tracking-wide text-white transition-colors hover:bg-black"
             >
               Request a sample

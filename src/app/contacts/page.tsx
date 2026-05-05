@@ -38,114 +38,32 @@ export default function ContactsPage() {
 
       <section className="w-full bg-white">
         <div
-          className="mx-auto grid gap-12 px-6 pb-20 md:grid-cols-2"
+          className="mx-auto px-6 pb-20"
           style={{ maxWidth: 960 }}
         >
-          {/* Headquarters */}
-          <div>
-            <h2
-              className="text-2xl font-bold text-black"
-              style={{
-                fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif",
-              }}
-            >
-              Headquarters
-            </h2>
-            <address className="mt-4 not-italic text-[#525252] leading-relaxed">
-              Maxema S.r.l.
-              <br />
-              Via Vittime delle Foibe, 15
-              <br />
-              10088 Volpiano (Torino)
-              <br />
-              Italy
-            </address>
-            <dl className="mt-6 space-y-2 text-[#525252]">
-              <div className="flex gap-3">
-                <dt className="w-12 text-[#838383]">T</dt>
-                <dd>
-                  <a href="tel:+390119704500" className="hover:text-black">
-                    +39 011 970 4500
-                  </a>
-                </dd>
-              </div>
-              <div className="flex gap-3">
-                <dt className="w-12 text-[#838383]">F</dt>
-                <dd>+39 011 985 1100</dd>
-              </div>
-              <div className="flex gap-3">
-                <dt className="w-12 text-[#838383]">E</dt>
-                <dd>
-                  <a
-                    href="mailto:info@maxema.com"
-                    className="hover:text-black"
-                  >
-                    info@maxema.com
-                  </a>
-                </dd>
-              </div>
-            </dl>
-          </div>
-
-          {/* Departments */}
-          <div>
-            <h2
-              className="text-2xl font-bold text-black"
-              style={{
-                fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif",
-              }}
-            >
-              Departments
-            </h2>
-            <dl className="mt-4 space-y-4 text-[#525252]">
-              <div>
-                <dt className="text-xs uppercase tracking-wider text-[#838383]">
-                  Sales — Italy
-                </dt>
-                <dd className="mt-1">
-                  <a href="mailto:sales@maxema.com" className="hover:text-black">
-                    sales@maxema.com
-                  </a>
-                </dd>
-              </div>
-              <div>
-                <dt className="text-xs uppercase tracking-wider text-[#838383]">
-                  Sales — International
-                </dt>
-                <dd className="mt-1">
-                  <a
-                    href="mailto:export@maxema.com"
-                    className="hover:text-black"
-                  >
-                    export@maxema.com
-                  </a>
-                </dd>
-              </div>
-              <div>
-                <dt className="text-xs uppercase tracking-wider text-[#838383]">
-                  Customisation &amp; printing
-                </dt>
-                <dd className="mt-1">
-                  <a
-                    href="mailto:print@maxema.com"
-                    className="hover:text-black"
-                  >
-                    print@maxema.com
-                  </a>
-                </dd>
-              </div>
-              <div>
-                <dt className="text-xs uppercase tracking-wider text-[#838383]">
-                  Press &amp; PR
-                </dt>
-                <dd className="mt-1">
-                  <a href="mailto:press@maxema.com" className="hover:text-black">
-                    press@maxema.com
-                  </a>
-                </dd>
-              </div>
-            </dl>
-          </div>
+          <h2
+            className="text-2xl font-bold text-black"
+            style={{
+              fontFamily: "'Helvetica Neue', Helvetica, Arial, sans-serif",
+            }}
+          >
+            Email
+          </h2>
+          <dl className="mt-4 text-[#525252]">
+            <div>
+              <dt className="text-xs uppercase tracking-wider text-[#838383]">
+                General enquiries
+              </dt>
+              <dd className="mt-1">
+                <a
+                  href="mailto:maxema@importacionesusb.mx"
+                  className="hover:text-black"
+                >
+                  maxema@importacionesusb.mx
+                </a>
+              </dd>
+            </div>
+          </dl>
         </div>
       </section>
 

@@ -82,8 +82,8 @@ export function rewriteHref(href: string | null | undefined): string {
     return staticHit + finalQuery + fragment;
   }
 
-  // Reserved area (request-sample / favorites / user-profile)
-  if (RESERVED_AREA_RE.test(pathname)) return "/reserved-area";
+  // Reserved area / sample request URLs all funnel to contacts now
+  if (RESERVED_AREA_RE.test(pathname)) return "/contacts";
 
   // Product detail
   const pm = pathname.match(PRODUCT_RE);
