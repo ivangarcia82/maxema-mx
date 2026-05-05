@@ -1,0 +1,14 @@
+[
+  {
+    "url": "http://www.maxema.com/assets/fightbean/assets/content/finiture/mosaic-2_b.png",
+    "err": "Error: HTTP 404"
+  },
+  {
+    "url": "http://www.maxema.com/media/production/pens/780x00_",
+    "err": "Error: HTTP 404"
+  },
+  {
+    "url": "http://www.maxema.com/media/production/techSpecs/210x00_",
+    "err": "Error: HTTP 404"
+  }
+]

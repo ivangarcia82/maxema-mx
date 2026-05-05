@@ -1,0 +1,556 @@
+{
+  "title": "R-PET Be Kind - Maxema - Promotional writing instruments and business gadgets, custom printed pens.",
+  "description": "R-PET Be Kind - Maxema - Promotional pens. Hi-quality pens designed in Italy. Promotional writing instruments and business gadgets.",
+  "headings": [
+    {
+      "level": 3,
+      "text": "Turn words into action."
+    },
+    {
+      "level": 4,
+      "text": "Our company is ClimatePartner certified.To deliver our commitment in transparent fashion, we have calculated Maxema's corporate carbon footprint and defined new targets and ways to help reduce it."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/muvobit/landing/images/logo_rpet.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "logo-maxema"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/logo_rpet.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "logo-maxema-white"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/bekind.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "bekind-visual"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/bekind-pen-hero-low.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen-hero"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/oceanworks.svg",
+      "alt": "oceanworks",
+      "width": null,
+      "height": null,
+      "class": "oceanworks-logo"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-oceanworks.svg",
+      "alt": "the kind of pen that loves the oceans",
+      "width": null,
+      "height": null,
+      "class": "kind-oceanworks"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-pen-animation.png",
+      "alt": "kinf",
+      "width": null,
+      "height": null,
+      "class": "kind-pen-animation"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/gradiente-blu-04-low.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "bg-gradient"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/maxema-kind-matt-re-giallo-low.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen-rotate-giallo"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-08.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "--pen-rotate"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-07.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-06.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-05.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-04.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-03.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-02.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-animation-01.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen--preload"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-23.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-22.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-25.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-24.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-26.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-27.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-7.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-20.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-21.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-19.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-17.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-18.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-15.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-16.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-14.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-13.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-11.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-12.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-10.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-8.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-9.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-4.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-5.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-6.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-1.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-2.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-colors/NEW-MATT-CB-04-3.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-gom.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "kind-finishes-images"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-matt.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "kind-finishes-images"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-frost.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "kind-finishes-images"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-imprint-eng.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/gradiente-blu-04-low.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "bg-gradient"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-minikit.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-model-kit.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-minikit.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/kind-model-kit.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/rpet-catalogue.png",
+      "alt": "r-pet catalogue",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/more-than-plastic-kind-issue.png",
+      "alt": "more than plastic kind issue",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/climatepartner-eng.svg",
+      "alt": "climatepartner",
+      "width": null,
+      "height": null,
+      "class": ""
+    }
+  ],
+  "videos": [
+    {
+      "src": "/assets/muvobit/landing/images/oceanworks-loop.mp4",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "/assets/muvobit/landing/images/maxema-kind-oceanworks-loop.mp4",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "/assets/muvobit/landing/images/maxema-kind-oceanworks-loop.mp4",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "/assets/muvobit/landing/images/video-climatepartner.mp4",
+      "poster": "/assets/muvobit/landing/images/maxema-climate-partner.jpeg",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": ""
+    },
+    {
+      "href": "#video",
+      "text": "Video"
+    },
+    {
+      "href": "#write-the-change",
+      "text": "R-PET"
+    },
+    {
+      "href": "#write-the-change-colors",
+      "text": "Colours"
+    },
+    {
+      "href": "#finishes",
+      "text": "Finishes"
+    },
+    {
+      "href": "#samples",
+      "text": "Samples"
+    },
+    {
+      "href": "#catalog",
+      "text": "Read more"
+    },
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": "maxema.com"
+    },
+    {
+      "href": "/kind-rpet/it?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/kind-rpet/en?l=en",
+      "text": "English"
+    },
+    {
+      "href": "#video",
+      "text": "Video"
+    },
+    {
+      "href": "#write-the-change",
+      "text": "R-PET"
+    },
+    {
+      "href": "#write-the-change-colors",
+      "text": "Colours"
+    },
+    {
+      "href": "#finishes",
+      "text": "Finishes"
+    },
+    {
+      "href": "#samples",
+      "text": "Samples"
+    },
+    {
+      "href": "#catalog",
+      "text": "Read more"
+    },
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": "maxema.com"
+    },
+    {
+      "href": "/kind-rpet/it?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/kind-rpet/en?l=en",
+      "text": "English"
+    },
+    {
+      "href": "https://oceanworks.co/",
+      "text": "Know more about the project"
+    },
+    {
+      "href": "/pdf/CATALOGO_RPET.pdf",
+      "text": "Download the R-PET catalogue"
+    },
+    {
+      "href": "/pdf/be-kind-issue.pdf",
+      "text": "Download the KIND ISSUE"
+    },
+    {
+      "href": "/pdf/no-news-issue.pdf",
+      "text": "Download the NO NEWS ISSUE 2023"
+    },
+    {
+      "href": "/pdf/recycling-issue.pdf",
+      "text": "Download the RECYCLING ISSUE 2022"
+    },
+    {
+      "href": "/pdf/visual-issue.pdf",
+      "text": "Download the VISUAL JOURNEY ISSUE 2020"
+    },
+    {
+      "href": "https://climate-id.com/en/94EEJU",
+      "text": "Follow our progress and commitment"
+    },
+    {
+      "href": "http://www.maxema.com/",
+      "text": "maxema.com"
+    },
+    {
+      "href": "http://undesign.it/it/",
+      "text": "undesign"
+    }
+  ],
+  "forms": [],
+  "mainTextChars": 2989,
+  "mainText": "Video R-PET Colours Finishes Samples Read more go to maxema.com en Italiano English Video R-PET Colours Finishes Samples Read more go to maxema.com en Italiano English Take care of the environment and leave a mark that will inspire a sustainable story. Kind is our new 100% R-PET model made of recycled plastic bottles. In partnership with Oceanworks, we want to contribute to thepreservation of our oceans.Thanks to a global network of collectors andsuppliers, Kind is made of plastic sourced exclusively from cleanupactivities in ocean-bound regions. R-PET verified and certified. Know more about the project WATCH THE VIDEO WATCH THE VIDEO Created to write change Graceful lines, an iconic profile and plenty of room for customisation in a recyclable and refillable pen made of recycled materials. Designed to deliver a message with a strong visual impact and low environmental impact. Message from a bottle Kind is made of certified R-PET. This material is obtained by gathering and recycling PET, the most commonly used polyester in the production of soft-drink bottles. R-PET is made of recycled plastic and contributes to reducing the environmental footprint. Studies show that, apart from combating the accumulation of plastic waste, using 1 kg of R-PET is equivalent to reducing CO2 emissions by 3 kg. Clean the planet,colour your world 23 colours available to enhance your message. GOM MATT 03 FROST 52 MATT CB 18 GOM MATT 18 GOM MATT CB 15 GOM MATT 15 FROST 55 GOM MATT CB 79 GOM MATT 79 FROST 78 GOM MATT CB 09 GOM MATT 09 MATT CB 75 MATT 75 MATT CB 77 GOM MATT 77 MATT CB 12 MATT 12 FROST 44 MATT CB 22 GOM MATT 22 MATT CB 05 GOM MATT 05 FROST 32 MATT CB 04 GOM MATT 04 FROST 50 Discover every kind of finish A finish for every style, discover the one that best reflects your personality. MATT GOM MATT FROST Extra imprint (on demand). The sustainability choice needs to be communicated. You can personalise your Kind with a message on the back of the barrel about this pen’s origin. Our samples look after the environment. Even our samples are sustainable: FSC-certified, made of cellulose, certified recycled fibres and cotton fibres. MINIKIT Contains 8 printed KIND pens in R-PET plastic, in assorted colours and finishes.size: 24,3 x 20 cm (closed format) MODEL KIT Contains 20 printed KIND pens in R-PET plastic, in assorted colours and finishes.size: 25 x 34 cm (closed format) Find your Kind of pen Download the R-PET catalogue Learn more about our sustainable commitment Download the KIND ISSUE Download the NO NEWS ISSUE 2023 Download the RECYCLING ISSUE 2022 Download the VISUAL JOURNEY ISSUE 2020 Turn words into action. Our company is ClimatePartner certified.To deliver our commitment in transparent fashion, we have calculated Maxema's corporate carbon footprint and defined new targets and ways to help reduce it. Follow our progress and commitment © copyright 2024 maxemavia vittime delle foibe, 15 —— 10088 volpiano torino italy maxema.com powered by undesign",
+  "htmlBytes": 28005
+}

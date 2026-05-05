@@ -1,0 +1,561 @@
+{
+  "title": "Company - Maxema - Promotional pens. Hi-quality pens designed in Italy. Promotional writing instruments and business gadgets.",
+  "description": "Company - Maxema - Promotional pens. Hi-quality pens designed in Italy. Promotional writing instruments and business gadgets.",
+  "headings": [
+    {
+      "level": 6,
+      "text": "PRODUCTS"
+    },
+    {
+      "level": 6,
+      "text": "Services"
+    },
+    {
+      "level": 6,
+      "text": "COMPANY"
+    },
+    {
+      "level": 1,
+      "text": "An Italian"
+    },
+    {
+      "level": 1,
+      "text": "Heart"
+    },
+    {
+      "level": 2,
+      "text": "Precision design, meticulous engineering, constant research and testing, selection of the best materials. In short: a love for beautiful objects and care for the environment. This is what an Italian-made product means for Maxema."
+    },
+    {
+      "level": 2,
+      "text": "Fast and reliable"
+    },
+    {
+      "level": 2,
+      "text": "From 2000 to 6000"
+    },
+    {
+      "level": 2,
+      "text": "We select our raw materials with care."
+    },
+    {
+      "level": 2,
+      "text": "A good pen keeps its promise."
+    },
+    {
+      "level": 2,
+      "text": "Up to 4000 metres"
+    },
+    {
+      "level": 2,
+      "text": "Our ink"
+    },
+    {
+      "level": 2,
+      "text": "Download the company profile"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://www.maxema.com/assets/images/logo.gif",
+      "alt": "Maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-KINDMATTRP01.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-35921.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-207329.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-603236.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797142.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-899440.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-147418.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-948235.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-151447.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-234846.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-297716.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-446924.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-572722.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797263.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-312947.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-50384.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-440540.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/ico_maxema_p.png",
+      "alt": "",
+      "width": "60",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/azienda/azienda_produzione.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/ico_maxema_p.png",
+      "alt": "",
+      "width": "60",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/azienda/azienda-2.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-large"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/ico_maxema_p.png",
+      "alt": "",
+      "width": "60",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/azienda/azienda_inchiostri.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/ico_maxema_p.png",
+      "alt": "",
+      "width": "60",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/azienda/repository-icon.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/images/icon_5.png",
+      "alt": "maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    }
+  ],
+  "videos": [
+    {
+      "src": "/assets/fightbean/assets/content/azienda/undesign_maxema_video_produzione_01.webm",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "/assets/fightbean/assets/content/azienda/azienda-inchiostri.webm",
+      "poster": null,
+      "autoplay": false,
+      "loop": false,
+      "muted": false
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "/about/it/?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/about/en/?l=en",
+      "text": "English"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "Reserved Area"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "Contacts"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Company"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "Pens"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/",
+      "text": "Customisation"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "Sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/finishes/en/",
+      "text": "Finishes"
+    },
+    {
+      "href": "http://www.maxema.com/recycled-plastic-pens/en/",
+      "text": "Recycled pens"
+    },
+    {
+      "href": "#",
+      "text": "More"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "PRODUCTS"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/0/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/261/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/235/",
+      "text": "Icon Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/198/",
+      "text": "Flow Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/161/",
+      "text": "Dot /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/157/",
+      "text": "Zink /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/61/",
+      "text": "Pixel /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/191/",
+      "text": "Bay /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/251/",
+      "text": "Mood Metal /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/252/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/217/",
+      "text": "Mood /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/171/",
+      "text": "Flow /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/120/",
+      "text": "View /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/124/",
+      "text": "Tag Green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/44/",
+      "text": "Next /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/104/",
+      "text": "Tag /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/93/",
+      "text": "Icon /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/105/",
+      "text": "Icon green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/73/",
+      "text": "Ethic"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/9/",
+      "text": "rose/purple"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/6/",
+      "text": "azure / blue"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/7/",
+      "text": "green"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/5/",
+      "text": "yellow/orange"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/4/",
+      "text": "red"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/10/",
+      "text": "cream/brown"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/8/",
+      "text": "grey"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/2/",
+      "text": "black"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/1/",
+      "text": "white"
+    },
+    {
+      "href": "http://www.maxema.com/services/en/",
+      "text": "Services"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_stampa",
+      "text": "customisation"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_packaging",
+      "text": "packaging"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_pantone",
+      "text": "pantone colors"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Maxema Company"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "contacts"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "FAVORITES"
+    },
+    {
+      "href": "http://www.maxema.com/request-sample/en/",
+      "text": "SAMPLE KITS"
+    },
+    {
+      "href": "http://www.maxema.com/user-profile/en/",
+      "text": "ACCOUNT"
+    },
+    {
+      "href": "http://www.maxema.com/faq/en/",
+      "text": "FAQ"
+    },
+    {
+      "href": "http://www.maxema.com/media/en/",
+      "text": "MEDIA"
+    },
+    {
+      "href": "http://www.maxema.com/",
+      "text": "Home"
+    },
+    {
+      "href": "http://www.maxema.com/pdf/Maxema_company_profile.pdf",
+      "text": "Download the company profile"
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/cookie_privacy_policy/en",
+      "text": "privacy policy"
+    }
+  ],
+  "forms": [],
+  "mainTextChars": 3651,
+  "mainText": "Italiano English Reserved Area Contacts Company Pens Customisation Sample kits Finishes Recycled pens More maxema ® via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com P PRODUCTS Our pens Kind / Kind / Icon Pure / Flow Pure / Dot / Zink / Pixel / Bay / Mood Metal / Kind / Mood / Flow / View / Tag Green / Next / Tag / Icon / Icon green / Ethic Search by color rose/purple azure / blue green yellow/orange red cream/brown grey black white select a color S Services customisation packaging pantone colors sample kits C COMPANY Maxema Company contacts FAVORITES SAMPLE KITS ACCOUNT FAQ MEDIA DISCLAIMER Home Azienda An Italian Heart Precision design, meticulous engineering, constant research and testing, selection of the best materials. In short: a love for beautiful objects and care for the environment. This is what an Italian-made product means for Maxema. Fast and reliable 300,000 pieces a day is the production potential of our automated assembly lines when at full capacity. Because quite apart from quality, speed can make a difference too. Our highly-automated assembly lines ensure fast and highly competitive production times: depending on the model, the machines can assemble from 2000 to 6000 pieces per hour. Automation also means the guarantee of functionality: strict quality controls check the perfect functioning of each pen at every assembly phase. PRODUCTION From 2000 to 6000 Pieces produced per hour per machine We select our raw materials with care. The plastic used in our pens, refils and components is sourced exclusively from Italian or German suppliers guaranteeing absolute quality and reliability. A good pen keeps its promise. A good pen keeps its promise: it is not only nice to look at, but writes well too. It provides maximum writing comfort, a perfect stroke and glides softly and lightly over the paper. Inks and refills Up to 4000 metres of writing with rT 90 Our ink Only German Dokumental, non-toxic and compliant with European Directive (REACH) and American Directive (TSCA). The color of the ink can be customised for orders over 5000 pieces. Download the company profile via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com MAXEMA SRL P.IVA 05321380015 privacy policy var acceptText='Accetto'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='Il sito www.maxema.com utilizza cookie esclusivamente tecnici per permettere una corretta navigazione e la completa fruizione di tutti i contenuti da parte dell\\'utente. Non utilizziamo in alcun modo cookie di profilazione.'; var acceptText='I Understand'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='This site uses cookies to improve their services and experience of readers. If you decide to continue browsing we consider that you accept their use.'; $(document).ready(function(){ $.cookieBar({ message: cookie_message, acceptButton: true, acceptText: acceptText, policyButton: true, policyText: 'Privacy Policy', policyURL: policy_url, autoEnable: true, acceptOnContinue: false, acceptOnScroll: false, acceptAnyClick: false, expireDays: 365, renewOnVisit: false, forceShow: false, bottom:true, fixed:true, domain: 'www.maxema.com', referrer: 'www.maxema.com' }); }); img.img-social {width: 16px;height: 16px;opacity: .6;transition: ease .5s;position: relative;top: 3px;} img.img-social:hover {opacity: 1;} .img-social-footer {filter: brightness(0.2);} .img-social-radius {width: 20px;height: 20px;display: inline-block;} .social_header {width: 84px !important;text-align: center;background: unset !important;}",
+  "htmlBytes": 36410
+}

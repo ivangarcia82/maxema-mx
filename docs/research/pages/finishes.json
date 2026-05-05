@@ -1,0 +1,860 @@
+{
+  "title": "Finishes and Materials - Maxema - Promotional pens. Hi-quality pens designed in Italy. Promotional writing instruments and business gadgets.",
+  "description": "Finishes and Materials - Maxema - Promotional pens. Hi-quality pens designed in Italy. Promotional writing instruments and business gadgets. Company pens: Custom printed pens, personalized pens with your company logo.",
+  "headings": [
+    {
+      "level": 6,
+      "text": "PRODUCTS"
+    },
+    {
+      "level": 6,
+      "text": "Services"
+    },
+    {
+      "level": 6,
+      "text": "COMPANY"
+    },
+    {
+      "level": 1,
+      "text": "Maxema,"
+    },
+    {
+      "level": 1,
+      "text": "just a pen?"
+    },
+    {
+      "level": 2,
+      "text": "The essence of design"
+    },
+    {
+      "level": 2,
+      "text": "The beauty and quality of Maxema"
+    },
+    {
+      "level": 2,
+      "text": "Your world comes to life"
+    },
+    {
+      "level": 2,
+      "text": "Unmistakableto the touch"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://www.maxema.com/assets/images/logo.gif",
+      "alt": "Maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-KINDMATTRP01.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-35921.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-207329.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-603236.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797142.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-899440.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-147418.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-948235.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-151447.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-234846.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-297716.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-446924.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-572722.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797263.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-312947.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-50384.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-440540.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/canvas-pen.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/ico_maxema_p.png",
+      "alt": "",
+      "width": "60",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/glossy-solid.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/play-btn.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "finiture-video-icon"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/diamond-mirror.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/play-btn.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "finiture-video-icon"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/matt.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/play-btn.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "finiture-video-icon"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/glossy-transparent.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/play-btn.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "finiture-video-icon"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/frost.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/play-btn.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "finiture-video-icon"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/maxema-rubberised.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/play-btn.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "finiture-video-icon"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/ico_maxema_p.png",
+      "alt": "",
+      "width": "60",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/icona-lente_white.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "w"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/icona-lente.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "b"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-diamond.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-coprente.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-matt.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-gommato.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-frost.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-metallizzato.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/slider-trasparente.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "zoom"
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-1.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-1_b.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-1_c.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-2.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-2_b.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-2_c.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-3.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-3_b.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-3_c.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-4.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-4_b.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-4_c.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-5.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-5_b.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-5_c.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-6.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-6_b.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/fightbean/assets/content/finiture/mosaic-6_c.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/images/icon_5.png",
+      "alt": "maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "/finishes/it/?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/finishes/en/?l=en",
+      "text": "English"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "Reserved Area"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "Contacts"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Company"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "Pens"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/",
+      "text": "Customisation"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "Sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/finishes/en/",
+      "text": "Finishes"
+    },
+    {
+      "href": "http://www.maxema.com/recycled-plastic-pens/en/",
+      "text": "Recycled pens"
+    },
+    {
+      "href": "#",
+      "text": "More"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "PRODUCTS"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/0/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/261/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/235/",
+      "text": "Icon Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/198/",
+      "text": "Flow Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/161/",
+      "text": "Dot /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/157/",
+      "text": "Zink /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/61/",
+      "text": "Pixel /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/191/",
+      "text": "Bay /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/251/",
+      "text": "Mood Metal /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/252/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/217/",
+      "text": "Mood /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/171/",
+      "text": "Flow /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/120/",
+      "text": "View /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/124/",
+      "text": "Tag Green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/44/",
+      "text": "Next /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/104/",
+      "text": "Tag /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/93/",
+      "text": "Icon /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/105/",
+      "text": "Icon green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/73/",
+      "text": "Ethic"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/9/",
+      "text": "rose/purple"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/6/",
+      "text": "azure / blue"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/7/",
+      "text": "green"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/5/",
+      "text": "yellow/orange"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/4/",
+      "text": "red"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/10/",
+      "text": "cream/brown"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/8/",
+      "text": "grey"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/2/",
+      "text": "black"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/1/",
+      "text": "white"
+    },
+    {
+      "href": "http://www.maxema.com/services/en/",
+      "text": "Services"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_stampa",
+      "text": "customisation"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_packaging",
+      "text": "packaging"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_pantone",
+      "text": "pantone colors"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Maxema Company"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "contacts"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "FAVORITES"
+    },
+    {
+      "href": "http://www.maxema.com/request-sample/en/",
+      "text": "SAMPLE KITS"
+    },
+    {
+      "href": "http://www.maxema.com/user-profile/en/",
+      "text": "ACCOUNT"
+    },
+    {
+      "href": "http://www.maxema.com/faq/en/",
+      "text": "FAQ"
+    },
+    {
+      "href": "http://www.maxema.com/media/en/",
+      "text": "MEDIA"
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-diamond-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-coprente-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-matt-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-gommato-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-frost-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-metallizzato-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "/assets/fightbean/assets/content/finiture/slider-trasparente-zoomed.png",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/122/24/",
+      "text": "View transparent colour barrel and cap with glossy finish, chromed tip"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/98/27/",
+      "text": "Icon transparent colour barrel and cap with frost finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/231/77/",
+      "text": "Dot solid color barrel, cap and clip with matt finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/211/15/",
+      "text": "Flow Pure solid color barrel, cap and clip with matt finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/50/40/",
+      "text": "Next metallic colour painted finish barrel with aluminium painted finish clip"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/140/29/",
+      "text": "Tag transparent colour barrel and clip with frost finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/176/74/",
+      "text": "Flow solid colour barrel and cap with glossy finish and chromed tip"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/186/59/",
+      "text": "Dot solid colour barrel and cap with glossy finish and chromed push-button"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/131/41/",
+      "text": "Icon metallic colours painted finish barrel and cap with aluminium painted finish tip"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/160/76/",
+      "text": "Zink transparent colour barrel and cap with glossy finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/81/7/",
+      "text": "Ethic aluminium painted finish barrel and cap with metal chrome finish tip"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/177/5/",
+      "text": "Flow solid colour barrel with rubber finish and textured solid colour cap"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/199/26/",
+      "text": "Flow Pure solid colour barrel and cap with rubber finish, transparent colour clip with glossy finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/218/22/",
+      "text": "Mood solid colour barrel and cap with glossy finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/99/30/",
+      "text": "Icon transparent colour barrel and cap with glossy finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/199/31/",
+      "text": "Flow Pure solid colour barrel and cap with rubber finish, transparent colour clip with glossy finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/140/26/",
+      "text": "Tag transparent colour barrel and clip with frost finish"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/168/25/",
+      "text": "Dot transparent colour barrel and cap with glossy finish and chromed push-button"
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/cookie_privacy_policy/en",
+      "text": "privacy policy"
+    }
+  ],
+  "forms": [],
+  "mainTextChars": 6493,
+  "mainText": "Italiano English Reserved Area Contacts Company Pens Customisation Sample kits Finishes Recycled pens More maxema ® via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com P PRODUCTS Our pens Kind / Kind / Icon Pure / Flow Pure / Dot / Zink / Pixel / Bay / Mood Metal / Kind / Mood / Flow / View / Tag Green / Next / Tag / Icon / Icon green / Ethic Search by color rose/purple azure / blue green yellow/orange red cream/brown grey black white select a color S Services customisation packaging pantone colors sample kits C COMPANY Maxema Company contacts FAVORITES SAMPLE KITS ACCOUNT FAQ MEDIA DISCLAIMER Maxema, just a pen? The essence of design The beauty and quality of Maxema Appearance, originality, quality: everything must be perfectly balanced to make a pen worthy of embracing a unique and special corporate image. Your world comes to life Each finish has a personality and style of its own. Watch the video and choose the one that is best suited to your message. Diamondmirror Glossysolid Matt Rubberised Frosted Metallised GlossyTransparent Hover over the image to enlarge it Unmistakableto the touch Seven different finishes, seven variations of color and tactile rendering. Pens made to win you over, right from the first touch. A refined research into materials creates a design item, able to convey tactile and visual sensations, contained within a single pen. View transparent colour barrel and cap with glossy finish, chromed tip Icon transparent colour barrel and cap with frost finish Dot solid color barrel, cap and clip with matt finish Flow Pure solid color barrel, cap and clip with matt finish Next metallic colour painted finish barrel with aluminium painted finish clip Tag transparent colour barrel and clip with frost finish Flow solid colour barrel and cap with glossy finish and chromed tip Dot solid colour barrel and cap with glossy finish and chromed push-button Icon metallic colours painted finish barrel and cap with aluminium painted finish tip Zink transparent colour barrel and cap with glossy finish Ethic aluminium painted finish barrel and cap with metal chrome finish tip Flow solid colour barrel with rubber finish and textured solid colour cap Flow Pure solid colour barrel and cap with rubber finish, transparent colour clip with glossy finish Mood solid colour barrel and cap with glossy finish Icon transparent colour barrel and cap with glossy finish Flow Pure solid colour barrel and cap with rubber finish, transparent colour clip with glossy finish Tag transparent colour barrel and clip with frost finish Dot transparent colour barrel and cap with glossy finish and chromed push-button .single-finiture-video { width:500px;display:inline-block;margin:8px;cursor: pointer; border-radius: 5px; position: relative; overflow: hidden; } .single-finiture-video:after { content: ''; position: absolute; transition: ease .5s; width: 100%; height: 100%; top: 0; left: 0; background-color: #000; opacity: 0; transition: ease .5s } .finiture-video-icon { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 96px; height: 96px; z-index: +1; opacity: 0; transition: ease .5s } .single-finiture-video:hover:after { opacity: 0.5; } .single-finiture-video:hover .finiture-video-icon { opacity: 1; } .single-finiture-video img { float: left; width: 100%; } div.fullscreen-video-container { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999999; background-color: rgba(0,0,0,0.8); visibility: hidden; opacity: 0; transition: ease .5s } div.fullscreen-video-container.active { visibility: visible; opacity: 1 } div.fullscreen-video-closer { position: absolute; width: 50px; height: 50px; top: 10px; right: 10px; cursor: pointer } div.fullscreen-video-closer div { position: absolute; height: 2px; background-color: #fff; width: 100%; top: 50%; margin-top: -2px; transform: rotate(45deg) } div.fullscreen-video-closer div:nth-child(1) { transform: rotate(-45deg) } div.fullscreen-video-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer } .iframe_landing iframe { position: absolute; max-width: 90%; top: 50%; left: 50%; transform: translate(-50%, -50%); max-height: 90%; } jQuery(function($){ $(document).ready(function(){ $('[data-video]').click(function(){ var thisVideo = $(this).data('video'); console.log(thisVideo); $('#'+thisVideo).addClass('active'); }); $('.fullscreen-video-closer').click(function(){ $('.fullscreen-video-container').removeClass('active'); var thisVideo = $(this).closest('.fullscreen-video-container'); var iframesource = thisVideo.find('iframe').attr('src'); thisVideo.find('iframe').attr('src', iframesource); }); $('.fullscreen-video-overlay').click(function(){ $('.fullscreen-video-container').removeClass('active'); var thisVideo = $(this).closest('.fullscreen-video-container'); var iframesource = thisVideo.find('iframe').attr('src'); thisVideo.find('iframe').attr('src', iframesource); }); }); }); via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com MAXEMA SRL P.IVA 05321380015 privacy policy var acceptText='Accetto'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='Il sito www.maxema.com utilizza cookie esclusivamente tecnici per permettere una corretta navigazione e la completa fruizione di tutti i contenuti da parte dell\\'utente. Non utilizziamo in alcun modo cookie di profilazione.'; var acceptText='I Understand'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='This site uses cookies to improve their services and experience of readers. If you decide to continue browsing we consider that you accept their use.'; $(document).ready(function(){ $.cookieBar({ message: cookie_message, acceptButton: true, acceptText: acceptText, policyButton: true, policyText: 'Privacy Policy', policyURL: policy_url, autoEnable: true, acceptOnContinue: false, acceptOnScroll: false, acceptAnyClick: false, expireDays: 365, renewOnVisit: false, forceShow: false, bottom:true, fixed:true, domain: 'www.maxema.com', referrer: 'www.maxema.com' }); }); img.img-social {width: 16px;height: 16px;opacity: .6;transition: ease .5s;position: relative;top: 3px;} img.img-social:hover {opacity: 1;} .img-social-footer {filter: brightness(0.2);} .img-social-radius {width: 20px;height: 20px;display: inline-block;} .social_header {width: 84px !important;text-align: center;background: unset !important;}",
+  "htmlBytes": 60515
+}

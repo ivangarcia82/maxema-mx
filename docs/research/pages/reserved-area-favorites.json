@@ -1,0 +1,765 @@
+{
+  "title": "Production of promotional pens - Maxema - Reseller of promotional articles reserved area",
+  "description": "production of promotional pens, pens production, personalized pens, design pens, company pens, promotional writing instruments, business gadget pens, hi-quality pens.",
+  "headings": [
+    {
+      "level": 6,
+      "text": "PRODUCTS"
+    },
+    {
+      "level": 6,
+      "text": "Services"
+    },
+    {
+      "level": 6,
+      "text": "COMPANY"
+    },
+    {
+      "level": 1,
+      "text": "Reserved Area"
+    },
+    {
+      "level": 2,
+      "text": "Register now and access all our exclusive services."
+    },
+    {
+      "level": 2,
+      "text": "Manage Favorites"
+    },
+    {
+      "level": 2,
+      "text": "Request sample kits"
+    },
+    {
+      "level": 2,
+      "text": "Generating PDF"
+    },
+    {
+      "level": 2,
+      "text": "Downloads area"
+    },
+    {
+      "level": 1,
+      "text": "Already have an account?"
+    },
+    {
+      "level": 3,
+      "text": "/Reserved Area"
+    },
+    {
+      "level": 2,
+      "text": "Registration on our website is now disabled. Please contact us for further informations."
+    },
+    {
+      "level": 2,
+      "text": "Register"
+    },
+    {
+      "level": 6,
+      "text": "Account type"
+    },
+    {
+      "level": 6,
+      "text": "Personal info"
+    },
+    {
+      "level": 6,
+      "text": "Company info"
+    },
+    {
+      "level": 6,
+      "text": "Create account"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://www.maxema.com/assets/images/logo.gif",
+      "alt": "Maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-KINDMATTRP01.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-35921.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-207329.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-603236.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797142.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-899440.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-147418.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-948235.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-151447.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-234846.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-297716.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-446924.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-572722.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797263.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-312947.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-50384.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-440540.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "/assets/images/ar_gestione-preferiti.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/images/ar_richiesta-campionari.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/images/ar_generazione-pdf.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/images/ar_area-download.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/images/icon_5.png",
+      "alt": "maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "/login/it?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/login/en?l=en",
+      "text": "English"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "Reserved Area"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "Contacts"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Company"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "Pens"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/",
+      "text": "Customisation"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "Sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/finishes/en/",
+      "text": "Finishes"
+    },
+    {
+      "href": "http://www.maxema.com/recycled-plastic-pens/en/",
+      "text": "Recycled pens"
+    },
+    {
+      "href": "#",
+      "text": "More"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "PRODUCTS"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/0/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/261/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/235/",
+      "text": "Icon Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/198/",
+      "text": "Flow Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/161/",
+      "text": "Dot /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/157/",
+      "text": "Zink /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/61/",
+      "text": "Pixel /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/191/",
+      "text": "Bay /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/251/",
+      "text": "Mood Metal /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/252/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/217/",
+      "text": "Mood /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/171/",
+      "text": "Flow /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/120/",
+      "text": "View /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/124/",
+      "text": "Tag Green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/44/",
+      "text": "Next /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/104/",
+      "text": "Tag /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/93/",
+      "text": "Icon /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/105/",
+      "text": "Icon green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/73/",
+      "text": "Ethic"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/9/",
+      "text": "rose/purple"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/6/",
+      "text": "azure / blue"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/7/",
+      "text": "green"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/5/",
+      "text": "yellow/orange"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/4/",
+      "text": "red"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/10/",
+      "text": "cream/brown"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/8/",
+      "text": "grey"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/2/",
+      "text": "black"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/1/",
+      "text": "white"
+    },
+    {
+      "href": "http://www.maxema.com/services/en/",
+      "text": "Services"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_stampa",
+      "text": "customisation"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_packaging",
+      "text": "packaging"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_pantone",
+      "text": "pantone colors"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Maxema Company"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "contacts"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "FAVORITES"
+    },
+    {
+      "href": "http://www.maxema.com/request-sample/en/",
+      "text": "SAMPLE KITS"
+    },
+    {
+      "href": "http://www.maxema.com/user-profile/en/",
+      "text": "ACCOUNT"
+    },
+    {
+      "href": "http://www.maxema.com/faq/en/",
+      "text": "FAQ"
+    },
+    {
+      "href": "http://www.maxema.com/media/en/",
+      "text": "MEDIA"
+    },
+    {
+      "href": "http://www.maxema.com/",
+      "text": "Home"
+    },
+    {
+      "href": "#",
+      "text": "Forgot your password?"
+    },
+    {
+      "href": "#",
+      "text": "Back to log in"
+    },
+    {
+      "href": "#block1",
+      "text": "↑ top of page"
+    },
+    {
+      "href": "/cookie_privacy_policy/en",
+      "text": "read"
+    },
+    {
+      "href": "/privacy.pdf",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/cookie_privacy_policy/en",
+      "text": "privacy policy"
+    }
+  ],
+  "forms": [
+    {
+      "action": null,
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "pass",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "action",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "placeholder": null,
+          "required": false
+        }
+      ]
+    },
+    {
+      "action": null,
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "u_mail",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "action",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "placeholder": null,
+          "required": false
+        }
+      ]
+    },
+    {
+      "action": "",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "radio",
+          "name": "account_type",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "radio",
+          "name": "account_type",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "title",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "firstname",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "email",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "password",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "lastname",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "confirm_password",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_name",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_address",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_address_n",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "select",
+          "type": null,
+          "name": "company_country_id",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_website",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_sector",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_address_city",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "company_address_zip",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "action",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "submit",
+          "name": null,
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "newsletter",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "privacy",
+          "placeholder": null,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "action",
+          "placeholder": null,
+          "required": false
+        }
+      ]
+    }
+  ],
+  "mainTextChars": 6551,
+  "mainText": "Italiano English Reserved Area Contacts Company Pens Customisation Sample kits Finishes Recycled pens More maxema ® via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com P PRODUCTS Our pens Kind / Kind / Icon Pure / Flow Pure / Dot / Zink / Pixel / Bay / Mood Metal / Kind / Mood / Flow / View / Tag Green / Next / Tag / Icon / Icon green / Ethic Search by color rose/purple azure / blue green yellow/orange red cream/brown grey black white select a color S Services customisation packaging pantone colors sample kits C COMPANY Maxema Company contacts FAVORITES SAMPLE KITS ACCOUNT FAQ MEDIA DISCLAIMER Home Reserved area Reserved Area Register now and access all our exclusive services. Manage Favorites Save and organise in sets the pens you are interested in: this will enable you to find them effortlessly as the need arises. Request sample kits Order our promotional kits and sample collections and choose the pens you wish to receive. Generating PDF With just one click you can download a summary document in pdf format with all the pens you have saved as favourites Downloads area Section reserved for our PRO accounts, where you can download high-resolution images, videos, our catalogue and price lists, and all the promotional materials created by maxema which are updated by our staff on a monthly basis. Already have an account? E-mail Password Forgot your password? Just enter your email and you'll receive a new passwordE-mail Back to log in /Reserved Area ↑ top of page Registration on our website is now disabled. Please contact us for further informations. Register 1/4 Account type Account PLUS By accessing this area you will be able to manage your favourite pens in a personalised manner, request different types of sample collections, save your picks in handy pdf documents. Account PRO Combine the advantages of the Plus account with the possibility of accessing and downloading all maxema’s promotional and personalisable materials: price lists, high-resolution images, die-cut equipment, video clips and much much more. Your PRO account gives you a key to the entire maxema universe. Once your request has been accepted, you will be able to profit from all the services offered by maxema to its retailers. 2/4 Personal info Title Name* E-mail* Password* Surname* Confirm password* 3/4 Company info Company name Address Number Country AfghanistanÅlandAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaireBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos [Keeling] IslandsColombiaComorosCook IslandsCosta RicaCroatiaCubaCuracaoCyprusCzech RepublicDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CoastJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmar [Burma]NamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorth KoreaNorthern Mariana IslandsNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPitcairn IslandsPolandPortugalPuerto RicoQatarRepublic of the CongoRéunionRomaniaRussiaRwandaSaint BarthélemySaint HelenaSaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluU.S. Minor Outlying IslandsU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWallis and FutunaWestern SaharaYemenZambiaZimbabwe Phone n. Industry City Zip 4/4 Create account I'd like to receive maxema newsletter Accetto l'informativa sulla privacy (read) By clicking on 'Register', you confirm that you have read and accepted our Privacy policy. via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com MAXEMA SRL P.IVA 05321380015 privacy policy var acceptText='Accetto'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='Il sito www.maxema.com utilizza cookie esclusivamente tecnici per permettere una corretta navigazione e la completa fruizione di tutti i contenuti da parte dell\\'utente. Non utilizziamo in alcun modo cookie di profilazione.'; var acceptText='I Understand'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='This site uses cookies to improve their services and experience of readers. If you decide to continue browsing we consider that you accept their use.'; $(document).ready(function(){ $.cookieBar({ message: cookie_message, acceptButton: true, acceptText: acceptText, policyButton: true, policyText: 'Privacy Policy', policyURL: policy_url, autoEnable: true, acceptOnContinue: false, acceptOnScroll: false, acceptAnyClick: false, expireDays: 365, renewOnVisit: false, forceShow: false, bottom:true, fixed:true, domain: 'www.maxema.com', referrer: 'www.maxema.com' }); }); img.img-social {width: 16px;height: 16px;opacity: .6;transition: ease .5s;position: relative;top: 3px;} img.img-social:hover {opacity: 1;} .img-social-footer {filter: brightness(0.2);} .img-social-radius {width: 20px;height: 20px;display: inline-block;} .social_header {width: 84px !important;text-align: center;background: unset !important;}",
+  "htmlBytes": 47580
+}

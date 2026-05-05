@@ -1,0 +1,758 @@
+{
+  "title": "Recycled Plastic Pens - Maxema - Promotional writing instruments and business gadgets, custom printed pens.",
+  "description": "Recycled Plastic Pens - Maxema - Promotional pens. Hi-quality pens designed in Italy. Promotional writing instruments and business gadgets.",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Design embraces sustainability"
+    },
+    {
+      "level": 2,
+      "text": "Icon Pure in recycled plastic - model IC8-MATT RE"
+    },
+    {
+      "level": 2,
+      "text": "Flow Pure in recycled plastic - models F2P-MATT CB RE and F2P-MATT RE"
+    },
+    {
+      "level": 2,
+      "text": "Dot in recycled plastic - models D1-MATT CB RE and D1-MATT RE"
+    },
+    {
+      "level": 2,
+      "text": "Zink in recycled plastic - models Z1-CB RE and Z1-C RE"
+    },
+    {
+      "level": 2,
+      "text": "Pixel in recycled plastic - models PX40-MATT CB RE and PX40-MATT RE"
+    },
+    {
+      "level": 2,
+      "text": "Bay in recycled plastic - model B500-MATT RE"
+    },
+    {
+      "level": 3,
+      "text": "Icon pure"
+    },
+    {
+      "level": 3,
+      "text": "Flow Pure"
+    },
+    {
+      "level": 3,
+      "text": "Dot"
+    },
+    {
+      "level": 3,
+      "text": "Zink"
+    },
+    {
+      "level": 3,
+      "text": "Pixel"
+    },
+    {
+      "level": 3,
+      "text": "Bay"
+    },
+    {
+      "level": 3,
+      "text": "Tag Green Recycled Antibacterial"
+    },
+    {
+      "level": 3,
+      "text": "Icon Green Recycled Antibacterial"
+    },
+    {
+      "level": 2,
+      "text": "Our sustainable minikit"
+    },
+    {
+      "level": 2,
+      "text": "MINIKIT 8 PENS Contains 8 pens in recycled plastic, in all available colours."
+    },
+    {
+      "level": 2,
+      "text": "MINIKIT 6 PENS Contains 6 different models in recycled plastic."
+    },
+    {
+      "level": 2,
+      "text": "MY BOX Contains one pen in recycled plastic. Discover all the packagings"
+    },
+    {
+      "level": 3,
+      "text": "DISCOVER OUR"
+    },
+    {
+      "level": 4,
+      "text": "Antibacterial Collection"
+    },
+    {
+      "level": 3,
+      "text": "DISCOVER"
+    },
+    {
+      "level": 4,
+      "text": "Mood Metal"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/muvobit/landing/images/logo_recycled.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "logo-maxema"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/logo_maxema_white.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "logo-maxema-white"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/loader.gif",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/maxema-recycled-video-placeholder.jpeg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/ico-arrow-down.svg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swipe-penne-new_0001_iconpure.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-pen/swipe-flow.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swipe-penne-new_0000_dot.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swipe-penne-new_0003_zink.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swipe-penne-new_0002_pixel.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-pen/swipe-bay.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-pen/swipe-taggrereab.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-pen/swipe-icongrereab.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-ice.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-ice.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-cloud.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-cloud.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-graphite.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-graphite.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-mud.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-mud.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-desert.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-desert.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-forest.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-forest.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-abyss.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-abyss.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-onyx.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "left-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-color/pen-onyx.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "right-pen"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/recycled-plastic-lovers.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/a-lasting-pen-loves-nature.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/one-life-is-too-short.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/heart_icon.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "icon-box-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/leaf_icon.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "icon-box-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/rec_icon.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "icon-box-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/recycled-plastic-lovers.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/a-lasting-pen-loves-nature.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/one-life-is-too-short.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-boxed"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/collection.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "immagine-mag"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/catch_text.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "titolo-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/penrun_text.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "titolo-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/difference.gif",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "gif-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/make_text.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "titolo-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/recycling-fun.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "recycling-is-fantastic"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/elefante.gif",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "walking-elephant"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/recycling-fun.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "recycling-is-fantastic"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/catch.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/catch_text.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "titolo-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/penrun.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/penrun_text.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "titolo-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/make.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/make_text.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "titolo-gioco"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/elefante.gif",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "walking-elephant"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/slider-testo-fissato-1.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/eco1.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/eco2.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/eco3.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/eco1.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/eco2.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/eco3-mobile.jpeg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-kit/minikit-8-desktop-NEW.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "swipe-image__desk"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-kit/slider-minikit-mobile-alto-NEW.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "swipe-image__mobile"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-kit/slider_minikit-6.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "swipe-image__desk"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/swiper-kit/slider_minikit-6-mobile.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "swipe-image__mobile"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/slider_mybox-new.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "swipe-image__desk"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/slider-mybox-mobile-new.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "swipe-image__mobile"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/linkedin-new.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/ig-new.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/youtube-new.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/cta/focus-arrow.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/cta/focus-arrow.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    }
+  ],
+  "videos": [
+    {
+      "src": "/assets/muvobit/landing/images/Hero-new.mp4",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "/assets/muvobit/landing/images/catch.mp4",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "/assets/muvobit/landing/images/run.mp4",
+      "poster": null,
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "links": [
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": ""
+    },
+    {
+      "href": "#video",
+      "text": "Video"
+    },
+    {
+      "href": "#pens",
+      "text": "Pens"
+    },
+    {
+      "href": "#games",
+      "text": "Games"
+    },
+    {
+      "href": "#way-of-life",
+      "text": "Our way of life"
+    },
+    {
+      "href": "#inspirational-box",
+      "text": "Inspirational box"
+    },
+    {
+      "href": "#sample-kits",
+      "text": "Sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": "maxema.com"
+    },
+    {
+      "href": "/recycled-plastic-pens/it/?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/recycled-plastic-pens/en/?l=en",
+      "text": "English"
+    },
+    {
+      "href": "#video",
+      "text": "Video"
+    },
+    {
+      "href": "#pens",
+      "text": "Pens"
+    },
+    {
+      "href": "#games",
+      "text": "Games"
+    },
+    {
+      "href": "#way-of-life",
+      "text": "Our way of life"
+    },
+    {
+      "href": "#inspirational-box",
+      "text": "Inspirational box"
+    },
+    {
+      "href": "#sample-kits",
+      "text": "Sample kits"
+    },
+    {
+      "href": "#order",
+      "text": "Order"
+    },
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": "maxema.com"
+    },
+    {
+      "href": "/recycled-plastic-pens/it/?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/recycled-plastic-pens/en/?l=en",
+      "text": "English"
+    },
+    {
+      "href": "http://www.maxema.com/prodotti/en/?l=en",
+      "text": "Choose your favourite"
+    },
+    {
+      "href": "/pdf/catalog_2022_recycled.pdf",
+      "text": "Download the catalogue"
+    },
+    {
+      "href": "http://www.maxema.com/login/?l=en",
+      "text": "Consult the price list in the reserved area →"
+    },
+    {
+      "href": "https://games.maxema.com/?l=en",
+      "text": "PLAY NOW"
+    },
+    {
+      "href": "https://games.maxema.com/?l=en",
+      "text": "PLAY NOW"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_packaging",
+      "text": "Discover all the packagings"
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/antibacterial-pens/en/",
+      "text": "DISCOVER OUR Antibacterial Collection"
+    },
+    {
+      "href": "http://www.maxema.com/mood-metal/en/",
+      "text": "DISCOVER Mood Metal"
+    },
+    {
+      "href": "http://www.maxema.com/",
+      "text": "maxema.com"
+    },
+    {
+      "href": "http://undesign.it/it/",
+      "text": "undesign"
+    }
+  ],
+  "forms": [],
+  "mainTextChars": 4344,
+  "mainText": "Video Pens Games Our way of life Inspirational box Sample kits go to maxema.com en Italiano English Video Pens Games Our way of life Inspirational box Sample kits Order go to maxema.com en Italiano English WATCH THE VIDEO WATCH THE VIDEO Design embraces sustainability Discover the pleasure of sustainable writing with our recycled plastic pens. Also available in two models with antibacterial additive. Icon Pure in recycled plastic - model IC8-MATT RE Flow Pure in recycled plastic - models F2P-MATT CB RE and F2P-MATT RE Dot in recycled plastic - models D1-MATT CB RE and D1-MATT RE Zink in recycled plastic - models Z1-CB RE and Z1-C RE Pixel in recycled plastic - models PX40-MATT CB RE and PX40-MATT RE Bay in recycled plastic - model B500-MATT RE Icon pure Icon Pure in recycled plastic - model IC8-MATT RE Flow Pure Flow Pure in recycled plastic - models F2P-MATT CB RE and F2P-MATT RE Dot Dot in recycled plastic - models D1-MATT CB RE and D1-MATT RE Zink Zink in recycled plastic - models Z1-CB RE and Z1-C RE Pixel Pixel in recycled plastic - models PX40-MATT CB RE and PX40-MATT RE Bay Bay in recycled plastic - model B500-MATT RE Tag Green Recycled Antibacterial Icon Green Recycled Antibacterial The earth is full of shades Discover the eight colors inspired by nature 06 ICE 10 CLOUD 58 GRAPHITE 87 MUD 76 DESERT 19 FOREST 21 ABYSS 07 ONYX Ice Cloud Graphite Onyx Mud Desert Forest Abyss All models can be made of recycled plastic on request. For orders higher than 10,000 pcs. Choose your favourite Recycled plastic lovers The plastic in our pens is 100% post-consumer WEEE (Waste Electrical and Electronic Equipment), and is certified and compliant with RoHS and REACH. A long-lasting pen loves nature Our pens are designed to last as long as possible. Using our refills you can write up to 4 km with just one pen. One life is too short We use materials that are not only recycled, but also recyclable. The sustainable mission of our pens continues even after they have been in regular use. Recycled plastic lovers La plastica delle nostre penne deriva al 100% da prodotti post-consumo WEEE (Waste Electrical and Electronic Equipment), è certificata e conforme alle normative RoHS e REACH. A long-lasting pen loves nature Our pens are designed to last as long as possible. Using our refills you can write up to 4 km with just one pen. One life is too short We use materials that are not only recycled, but also recyclable. The sustainable mission of our pens continues even after they have been in regular use. Our recycled collection Download the catalogue Consult the price list in the reserved area → Turn computers into polymers, travel for miles dodging elephants and become an expert in separate waste collection. Put yourself on the line! PLAY NOW Turn computers into polymers, travel for miles dodging elephants and become an expert in separate waste collection. Put yourself on the line! PLAY NOW Being green is our way of life In cooperation with the Alperia Group, we have chosen to only use energy from renewable sources, namely hydroelectric power plants in South Tyrol. Clean, green and natural energy to continue writing the future of our planet. Our world in an eco-friendly box The mission, features and environmental commitment of Maxema pens packed in an inspirational box: a new tool for digging deeper into concepts of reuse and circularity. Made with care for you and the planet. Our world in an eco-friendly box The mission, features and environmental commitment of Maxema pens packed in an inspirational box: a new tool for digging deeper into concepts of reuse and circularity. Made with care for you and the planet. Our sustainable minikit For our recycled plastic pen samples, we have chosen FSC certified sustainable packaging, consisting of cellulose, certified recycled fibres and cotton fibres. Here are the containers we market: one, 6 or 8 pens? MINIKIT 8 PENS MINIKIT 6 PENS MY BOX MINIKIT 8 PENS Contains 8 pens in recycled plastic, in all available colours. MINIKIT 6 PENS Contains 6 different models in recycled plastic. MY BOX Contains one pen in recycled plastic. Discover all the packagings Follow us on social media DISCOVER OUR Antibacterial Collection DISCOVER Mood Metal © copyright 2022 maxemavia vittime delle foibe, 15 —— 10088 volpiano torino italy maxema.com powered by undesign",
+  "htmlBytes": 47865
+}

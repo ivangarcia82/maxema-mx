@@ -1,0 +1,841 @@
+{
+  "title": "Maxema - Next - Personalized and promotional pens. Promotional writing instruments and custom printed pens.",
+  "description": "Next Uncompromisingly essential design with sleek, dynamic lines, the perfect vehicle to give a boost to all types of brand.  Large areas for printing on both the barrel and clip, designed as a real screen on which to the increase visibility of logos. Designed for high value-added customisation.",
+  "headings": [
+    {
+      "level": 6,
+      "text": "PRODUCTS"
+    },
+    {
+      "level": 6,
+      "text": "Services"
+    },
+    {
+      "level": 6,
+      "text": "COMPANY"
+    },
+    {
+      "level": 1,
+      "text": "Next"
+    },
+    {
+      "level": 2,
+      "text": "the shape for the future"
+    },
+    {
+      "level": 6,
+      "text": "Technical information"
+    },
+    {
+      "level": 3,
+      "text": "P/Next"
+    },
+    {
+      "level": 6,
+      "text": "Details"
+    },
+    {
+      "level": 4,
+      "text": "Sleek, dynamic lines, able to boost the visibility and identity of every brand"
+    },
+    {
+      "level": 4,
+      "text": "The clip: a screen for conveying brand image"
+    },
+    {
+      "level": 4,
+      "text": "The ventilated button ensures sufficient airflow if inadvertently swallowed"
+    },
+    {
+      "level": 6,
+      "text": "Models and colors"
+    },
+    {
+      "level": 4,
+      "text": "NX400 - C CR"
+    },
+    {
+      "level": 6,
+      "text": "Show details"
+    },
+    {
+      "level": 6,
+      "text": "add to favorites"
+    },
+    {
+      "level": 4,
+      "text": "NX400 - 30 CR"
+    },
+    {
+      "level": 6,
+      "text": "Show details"
+    },
+    {
+      "level": 6,
+      "text": "add to favorites"
+    },
+    {
+      "level": 6,
+      "text": "Technical information"
+    },
+    {
+      "level": 5,
+      "text": "Features"
+    },
+    {
+      "level": 5,
+      "text": "Modularity"
+    },
+    {
+      "level": 5,
+      "text": "Print areas"
+    },
+    {
+      "level": 6,
+      "text": "Customisations"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://www.maxema.com/assets/images/logo.gif",
+      "alt": "Maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-KINDMATTRP01.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-35921.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-207329.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-603236.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797142.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-899440.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-147418.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-948235.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-151447.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-234846.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-297716.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-446924.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-572722.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-797263.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-312947.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-50384.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/40x00_maxema-440540.jpg",
+      "alt": "",
+      "width": "40",
+      "height": null,
+      "class": "hidden"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/maxema-903785.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-responsive"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/maxema-595625.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-responsive"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/maxema-589696.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-responsive"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-572722.jpg",
+      "alt": "",
+      "width": null,
+      "height": "294",
+      "class": ""
+    },
+    {
+      "src": "/assets/images/loader_wh.gif",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-572722.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-117524.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-322919.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-849755.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-308062.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-473935.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-862570.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-736546.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-247033.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-702505.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-506231.jpg",
+      "alt": "",
+      "width": null,
+      "height": "294",
+      "class": ""
+    },
+    {
+      "src": "/assets/images/loader_wh.gif",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-506231.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-238877.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-705855.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-872205.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-818454.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-405505.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-770442.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-879349.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-128773.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/50x00_maxema-481357.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "pen_color_img"
+    },
+    {
+      "src": "http://www.maxema.com/media/production/techSpecs/210x00_maxema-techSpec_150711.jpg",
+      "alt": "",
+      "width": null,
+      "height": "411",
+      "class": ""
+    },
+    {
+      "src": "http://www.maxema.com/media/production/pens/780x00_maxema-312645.jpg",
+      "alt": "",
+      "width": null,
+      "height": "411",
+      "class": ""
+    },
+    {
+      "src": "/assets/images/icon_5.png",
+      "alt": "maxema promotional pens",
+      "width": null,
+      "height": null,
+      "class": ""
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/linkedin-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/instagram-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    },
+    {
+      "src": "/assets/muvobit/landing/images/future/youtube-logo.svg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "class": "img-social img-social-footer"
+    }
+  ],
+  "videos": [],
+  "links": [
+    {
+      "href": "http://www.maxema.com/?l=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "/product/it/44/?l=it",
+      "text": "Italiano"
+    },
+    {
+      "href": "/product/en/44/?l=en",
+      "text": "English"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "Reserved Area"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "Contacts"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Company"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "Pens"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/",
+      "text": "Customisation"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "Sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/finishes/en/",
+      "text": "Finishes"
+    },
+    {
+      "href": "http://www.maxema.com/recycled-plastic-pens/en/",
+      "text": "Recycled pens"
+    },
+    {
+      "href": "#",
+      "text": "More"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "PRODUCTS"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/0/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/261/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/235/",
+      "text": "Icon Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/198/",
+      "text": "Flow Pure /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/161/",
+      "text": "Dot /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/157/",
+      "text": "Zink /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/61/",
+      "text": "Pixel /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/191/",
+      "text": "Bay /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/251/",
+      "text": "Mood Metal /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/252/",
+      "text": "Kind /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/217/",
+      "text": "Mood /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/171/",
+      "text": "Flow /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/120/",
+      "text": "View /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/124/",
+      "text": "Tag Green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/44/",
+      "text": "Next /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/104/",
+      "text": "Tag /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/93/",
+      "text": "Icon /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/105/",
+      "text": "Icon green /"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/73/",
+      "text": "Ethic"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/9/",
+      "text": "rose/purple"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/6/",
+      "text": "azure / blue"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/7/",
+      "text": "green"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/5/",
+      "text": "yellow/orange"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/4/",
+      "text": "red"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/10/",
+      "text": "cream/brown"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/8/",
+      "text": "grey"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/2/",
+      "text": "black"
+    },
+    {
+      "href": "http://www.maxema.com/search/en/1/",
+      "text": "white"
+    },
+    {
+      "href": "http://www.maxema.com/services/en/",
+      "text": "Services"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_stampa",
+      "text": "customisation"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_packaging",
+      "text": "packaging"
+    },
+    {
+      "href": "http://www.maxema.com/customisation/en/#sezione_pantone",
+      "text": "pantone colors"
+    },
+    {
+      "href": "http://www.maxema.com/sample_cases/en/",
+      "text": "sample kits"
+    },
+    {
+      "href": "http://www.maxema.com/about/en/",
+      "text": "Maxema Company"
+    },
+    {
+      "href": "http://www.maxema.com/contacts/en/",
+      "text": "contacts"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "FAVORITES"
+    },
+    {
+      "href": "http://www.maxema.com/request-sample/en/",
+      "text": "SAMPLE KITS"
+    },
+    {
+      "href": "http://www.maxema.com/user-profile/en/",
+      "text": "ACCOUNT"
+    },
+    {
+      "href": "http://www.maxema.com/faq/en/",
+      "text": "FAQ"
+    },
+    {
+      "href": "http://www.maxema.com/media/en/",
+      "text": "MEDIA"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/124/",
+      "text": "previous model"
+    },
+    {
+      "href": "http://www.maxema.com/product/en/104/",
+      "text": "next model"
+    },
+    {
+      "href": "http://www.maxema.com/",
+      "text": "Home"
+    },
+    {
+      "href": "http://www.maxema.com/products/en/",
+      "text": "Pens Catalogue"
+    },
+    {
+      "href": "#block1",
+      "text": "1/4 Details"
+    },
+    {
+      "href": "#block2",
+      "text": "2/4 Variants"
+    },
+    {
+      "href": "#block3",
+      "text": "3/4 Technical information"
+    },
+    {
+      "href": "#block4",
+      "text": "4/4 Customisations"
+    },
+    {
+      "href": "http://www.maxema.com/favorites/en/",
+      "text": "log in"
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/5/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/6/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/7/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/8/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/9/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/10/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/16/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/20/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/21/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/53/22/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/23/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/24/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/25/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/26/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/27/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/28/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/29/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/30/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/31/",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/pen/en/52/32/",
+      "text": ""
+    },
+    {
+      "href": "https://www.linkedin.com/company/maxema/",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/maxema_official/",
+      "text": ""
+    },
+    {
+      "href": "https://www.youtube.com/user/MAXEMAchannel",
+      "text": ""
+    },
+    {
+      "href": "http://www.maxema.com/cookie_privacy_policy/en",
+      "text": "privacy policy"
+    }
+  ],
+  "forms": [],
+  "mainTextChars": 4208,
+  "mainText": "Italiano English Reserved Area Contacts Company Pens Customisation Sample kits Finishes Recycled pens More maxema ® via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com P PRODUCTS Our pens Kind / Kind / Icon Pure / Flow Pure / Dot / Zink / Pixel / Bay / Mood Metal / Kind / Mood / Flow / View / Tag Green / Next / Tag / Icon / Icon green / Ethic Search by color rose/purple azure / blue green yellow/orange red cream/brown grey black white select a color S Services customisation packaging pantone colors sample kits C COMPANY Maxema Company contacts FAVORITES SAMPLE KITS ACCOUNT FAQ MEDIA DISCLAIMER previous model/ next model HomePens Catalogue Next Next the shape for the future Technical information Download pdfof this model Uncompromisingly essential design with sleek, dynamic lines, the perfect vehicle to give a boost to all types of brand. Large areas for printing on both the barrel and clip, designed as a real screen on which to the increase visibility of logos. Designed for high value-added customisation. Available in recycled plastic for orders over 10,000 units. 1/4 Details 2/4 Variants 3/4 Technical information 4/4 Customisations log in P/Next 1/4 Details Details of the pen Sleek, dynamic lines, able to boost the visibility and identity of every brand The clip: a screen for conveying brand image The ventilated button ensures sufficient airflow if inadvertently swallowed 2/4 Models and colors Available in 2 models and 20 color variants NX400 - C CR Show details add to favorites ABS plastic, glossy finishes, solid colours, chromed tip NX400 - 30 CR Show details add to favorites ABS plastic, glossy finishes, transparent colours, chromed tip 3/4 Technical information Print areas and tech specs Features ● retractable with return spring ● ventilated push-button ● made of non-toxic, highly resistant ABS plastic ● Jumbo refi ll, blue and black ink ● the barrel is available in glossy, matt, rubberised and metallic or aluminium painted finish ● galvanic process used to chrome the ABS tip ● rubberised barrel versions (GOM) are only printable on the clip Modularity you can combine differently coloured parts from the same version (or code number), or elements from different versions A push-button B clip C barrel D tip Print areas 1 screen printing 40 x 30 mm * 2 pad printing 35 x 9 mm 3 pad printing 50 x 10 mm * * Not available for the following versions: - NX400 - GOM C CR - NX400 - GOM AL 4/4 Customisations The brands mentioned in this catalogue are the exclusive property of the respective owners. They are used for purely illustrative purposes and cannot be the object of any buying and selling transactions, under any circumstances. via vittime delle foibe 15 10088 volpiano torino italy t +39 011 970 4500 f +39 011 970 4550 maxema@maxema.com MAXEMA SRL P.IVA 05321380015 privacy policy var acceptText='Accetto'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='Il sito www.maxema.com utilizza cookie esclusivamente tecnici per permettere una corretta navigazione e la completa fruizione di tutti i contenuti da parte dell\\'utente. Non utilizziamo in alcun modo cookie di profilazione.'; var acceptText='I Understand'; var policy_url='/cookie_privacy_policy/en'; var cookie_message='This site uses cookies to improve their services and experience of readers. If you decide to continue browsing we consider that you accept their use.'; $(document).ready(function(){ $.cookieBar({ message: cookie_message, acceptButton: true, acceptText: acceptText, policyButton: true, policyText: 'Privacy Policy', policyURL: policy_url, autoEnable: true, acceptOnContinue: false, acceptOnScroll: false, acceptAnyClick: false, expireDays: 365, renewOnVisit: false, forceShow: false, bottom:true, fixed:true, domain: 'www.maxema.com', referrer: 'www.maxema.com' }); }); img.img-social {width: 16px;height: 16px;opacity: .6;transition: ease .5s;position: relative;top: 3px;} img.img-social:hover {opacity: 1;} .img-social-footer {filter: brightness(0.2);} .img-social-radius {width: 20px;height: 20px;display: inline-block;} .social_header {width: 84px !important;text-align: center;background: unset !important;}",
+  "htmlBytes": 47647
+}
