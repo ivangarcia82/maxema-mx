@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { PageShell } from "@/components/PageShell";
+import { ContactForm } from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title:
@@ -162,82 +163,7 @@ export default function ContactsPage() {
           <p className="mt-3 text-[#838383]">
             All fields marked with * are required.
           </p>
-          <form className="mt-8 grid gap-5 md:grid-cols-2">
-            <label className="flex flex-col">
-              <span className="mb-1 text-xs uppercase tracking-wider text-[#838383]">
-                Name *
-              </span>
-              <input
-                required
-                name="name"
-                type="text"
-                className="border border-[#dedede] bg-white px-4 py-3 text-sm text-black focus:border-black focus:outline-none"
-              />
-            </label>
-            <label className="flex flex-col">
-              <span className="mb-1 text-xs uppercase tracking-wider text-[#838383]">
-                Email *
-              </span>
-              <input
-                required
-                name="email"
-                type="email"
-                className="border border-[#dedede] bg-white px-4 py-3 text-sm text-black focus:border-black focus:outline-none"
-              />
-            </label>
-            <label className="flex flex-col">
-              <span className="mb-1 text-xs uppercase tracking-wider text-[#838383]">
-                Company
-              </span>
-              <input
-                name="company"
-                type="text"
-                className="border border-[#dedede] bg-white px-4 py-3 text-sm text-black focus:border-black focus:outline-none"
-              />
-            </label>
-            <label className="flex flex-col">
-              <span className="mb-1 text-xs uppercase tracking-wider text-[#838383]">
-                Country
-              </span>
-              <input
-                name="country"
-                type="text"
-                className="border border-[#dedede] bg-white px-4 py-3 text-sm text-black focus:border-black focus:outline-none"
-              />
-            </label>
-            <label className="flex flex-col md:col-span-2">
-              <span className="mb-1 text-xs uppercase tracking-wider text-[#838383]">
-                Message *
-              </span>
-              <textarea
-                required
-                name="message"
-                rows={6}
-                className="border border-[#dedede] bg-white px-4 py-3 text-sm text-black focus:border-black focus:outline-none"
-              />
-            </label>
-            <label className="flex items-start gap-3 md:col-span-2">
-              <input type="checkbox" required className="mt-1" />
-              <span className="text-xs text-[#838383]">
-                I have read and accept the{" "}
-                <a
-                  href="/cookie-privacy-policy"
-                  className="underline hover:text-black"
-                >
-                  privacy policy
-                </a>
-                .
-              </span>
-            </label>
-            <div className="md:col-span-2">
-              <button
-                type="submit"
-                className="bg-[#c23c2a] px-8 py-3 text-sm font-medium uppercase tracking-wide text-white transition-colors hover:bg-black"
-              >
-                Send message
-              </button>
-            </div>
-          </form>
+          <ContactForm />
         </div>
       </section>
     </PageShell>
