@@ -10,10 +10,11 @@ export function ContactForm() {
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    const form = event.currentTarget;
     setStatus("submitting");
     setErrorMessage("");
 
-    const formData = new FormData(event.currentTarget);
+    const formData = new FormData(form);
     const payload = {
       name: String(formData.get("name") ?? ""),
       email: String(formData.get("email") ?? ""),
@@ -41,8 +42,8 @@ export function ContactForm() {
         return;
       }
 
+      form.reset();
       setStatus("success");
-      event.currentTarget.reset();
     } catch {
       setStatus("error");
       setErrorMessage("Network error. Please try again.");
